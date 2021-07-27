@@ -3,7 +3,7 @@
 
 export const createAsparagus = () => {
     return {
-        type: "asparagus",
+        type: "Asparagus",
         height: 24,
         output: 4
         
