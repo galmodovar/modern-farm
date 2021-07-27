@@ -1,6 +1,5 @@
 
 
-
 const field = []
 
 export const addPlant = (seed) => {
@@ -17,5 +16,4 @@ export const addPlant = (seed) => {
 
 export const usePlants = () => {
     return field
-    
 }
